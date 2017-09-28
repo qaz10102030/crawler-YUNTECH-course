@@ -1,6 +1,4 @@
-var webdriver = require('selenium-webdriver'),
-By = webdriver.By,
-until = webdriver.until;
+var webdriver = require('selenium-webdriver'),By = webdriver.By,until = webdriver.until;
 var fs = require('fs');
 var cheerio = require("cheerio");
 var driver = new webdriver.Builder().forBrowser('chrome').build(); //建瀏覽器
@@ -11,52 +9,72 @@ var mongodbServer = new mongodb.Server('localhost', 27017, {
   poolSize: 10
 });
 var db = new mongodb.Db('yuntech', mongodbServer);
-
-
+var depart_num = 0;
+process.setMaxListeners(0);
+//可調整變數區
+var proc_timeout = 300000; //整個爬蟲程序的時間，依效能調整
+var year = 106;//學年
+var semester = 1; //學期
+//
 driver.get('https://webapp.yuntech.edu.tw/WebNewCAS/Course/QueryCour.aspx'); //前往
 driver.wait(until.titleIs('國立雲林科技大學 YunTech -- 教務資訊系統 - 課程資訊查詢 Course Information'), 15000); //等頁面載完
-driver.findElement(By.id("ctl00_ContentPlaceHolder1_College")).click(); //點學院清單
-driver.findElement(By.xpath("//*[.=\""+ depart[0] +"\"]")).click(); //選一個
-driver.wait(until.elementIsNotVisible(driver.findElement(By.id('ctl00_UpdateProg1'))),10000); //等待處理中的畫面消失
-driver.findElement(By.id("ctl00_ContentPlaceHolder1_Submit")).click(); //點送出
-driver.wait(until.titleIs('國立雲林科技大學 YunTech -- 教務資訊系統 - 課程資訊查詢 Course Information'), 5000);//等頁面載完
-driver.findElement(By.id("ctl00_ContentPlaceHolder1_PageControl1_PageSize")).click(); //點最大筆數清單
-driver.findElement(By.xpath("//*[.=\"100\"]")).click(); //選100筆
-driver.wait(until.elementIsNotVisible(driver.findElement(By.id('ctl00_UpdateProg1'))),10000); //等待處理中的畫面消失(100筆等久一點)
-parse_html_and_analysis();
-var total_page = 0; //建立臨時變數存課程總頁數
-driver.findElement(By.id('ctl00_ContentPlaceHolder1_PageControl1_TotalPage')).getText().then(function(s) { //取人數，異步處理所以要function
-    console.log(s);
-    total_page = s - 1; //替換
-});
-driver.wait(function(){ //等待人數被存起來
-    return (total_page != 0)
-},3000);
-
+driver.findElement(By.id("ctl00_ContentPlaceHolder1_AcadSeme")).click(); //點學院清單
+driver.findElement(By.xpath("//*[.=\""+ year + "學年第" + semester + "學期" +"\"]")).click(); //選一個
 driver.wait(function(){
-    while(total_page--){
-        driver.findElement(By.id("ctl00_ContentPlaceHolder1_PageControl1_NextPage")).click(); //換頁
-        driver.wait(until.elementIsNotVisible(driver.findElement(By.id('ctl00_UpdateProg1'))),10000).then(function(){
-            parse_html_and_analysis();
-        });
+    while(depart_num < 4){
+        deaprtment(depart_num);
+        depart_num++;
     }
     return true;
-},50000);
+},proc_timeout);
 
 driver.quit();
 
+//一個學院要做的事
+function deaprtment(select){
+    driver.findElement(By.id("ctl00_ContentPlaceHolder1_College")).click(); //點學院清單
+    driver.findElement(By.xpath("//*[.=\""+ depart[select] +"\"]")).click(); //選一個
+    driver.wait(until.elementIsNotVisible(driver.findElement(By.id('ctl00_UpdateProg1'))),10000); //等待處理中的畫面消失
+    driver.findElement(By.id("ctl00_ContentPlaceHolder1_Submit")).click(); //點送出
+    driver.wait(until.titleIs('國立雲林科技大學 YunTech -- 教務資訊系統 - 課程資訊查詢 Course Information'), 5000);//等頁面載完
+    driver.findElement(By.id("ctl00_ContentPlaceHolder1_PageControl1_PageSize")).click(); //點最大筆數清單
+    driver.findElement(By.xpath("//*[.=\"100\"]")).click(); //選100筆
+    driver.wait(until.elementIsNotVisible(driver.findElement(By.id('ctl00_UpdateProg1'))),10000); //等待處理中的畫面消失(100筆等久一點)
+    parse_html_and_analysis();
+    var total_page = 0; //建立臨時變數存課程總頁數
+    driver.findElement(By.id('ctl00_ContentPlaceHolder1_PageControl1_TotalPage')).getText().then(function(s) { //取人數，異步處理所以要function
+        console.log(s);
+        total_page = s - 1; //替換
+    });
+    driver.wait(function(){ //等待頁數被存起來
+        return (total_page != 0)
+    },3000);
+    
+    driver.wait(function(){
+        while(total_page--){
+            driver.findElement(By.id("ctl00_ContentPlaceHolder1_PageControl1_NextPage")).click(); //換頁
+            driver.wait(until.elementIsNotVisible(driver.findElement(By.id('ctl00_UpdateProg1'))),10000).then(function(){
+                parse_html_and_analysis(depart[select]);
+            });
+        }
+        return true;
+    },50000);
+    driver.get('https://webapp.yuntech.edu.tw/WebNewCAS/Course/QueryCour.aspx'); //前往
+    driver.wait(until.titleIs('國立雲林科技大學 YunTech -- 教務資訊系統 - 課程資訊查詢 Course Information'), 15000); //等頁面載完
+}
+
 //一頁要做的事
-function parse_html_and_analysis(){
+function parse_html_and_analysis(select){
     var isAnalysising = false;
     //取html
     driver.findElement(By.id('ctl00_ContentPlaceHolder1_UpdatePanel3')).getAttribute("innerHTML")
         .then(function(profile) {
-            fs.writeFile('HTML.txt', profile, (err) => { //存起乃
+            fs.writeFile('./data/' + select + 'HTML.txt', profile, (err) => { //存起乃
                 if (err) throw err;
                 console.log('HTML saved!');
             });
             isAnalysising = true;
-            analysis(profile);
+            analysis(profile,select);
             isAnalysising = false;            
     });
     driver.wait(function(){
@@ -65,14 +83,14 @@ function parse_html_and_analysis(){
 }
 
 //分析html的function
-function analysis(profile){
+function analysis(profile,select){
     var $ = cheerio.load(profile); //把文本塞給cheerio
     var read = []; //開個陣列暫存
     $('.GridView_General tbody tr').each(function(i, elem){ //取表格將資料切出來
         read.push($(this).text().split('\n'));
     });
     
-    fs.writeFile('parse_first.txt', read , (err) => { //再存存~
+    fs.writeFile('./data/' + select + 'parse_first.txt', read , (err) => { //再存存~
         if (err) throw err;
         console.log('parse_first saved!');
     });
@@ -110,7 +128,7 @@ function analysis(profile){
         });
     }
         
-    fs.writeFile('output.txt', JSON.stringify(output) , (err) => { //再再存存~~
+    fs.writeFile('./data/' + select + 'output.txt', JSON.stringify(output) , (err) => { //再再存存~~
         if (err) throw err;
         console.log('output saved!');
     });
