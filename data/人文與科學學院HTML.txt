@@ -31,7 +31,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl02_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;">限<br>55人</span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl02_Programs" class="programPopupTrigger" rel="106|1|0120,b8455a70-656c-4f98-a55e-6e127bd2e38e,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl02_Programs" class="programPopupTrigger" rel="106|1|0120,86744ab6-aafb-428c-bb46-3eb28fdcb2a3,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl02_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl02_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">英語授課</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl02_Remark" style="font-size:10pt;"><br>有問題請洽語言中心</span>
@@ -139,7 +139,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl05_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;">限<br>40人</span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl05_Programs" class="programPopupTrigger" rel="106|1|0123,f862ce1b-3d0c-4788-a64e-170bac9b1f80,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl05_Programs" class="programPopupTrigger" rel="106|1|0123,14af3cb4-e22b-44f3-8a7f-57f6c0962e27,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl05_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl05_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">英語授課</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl05_Remark" style="font-size:10pt;"><br>有問題請洽語言中心</span>

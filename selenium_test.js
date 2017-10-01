@@ -103,9 +103,11 @@ function analysis(profile,select){
         if(parse_sc_room != undefined)
         {
             var parse_schedule = new String(parse_sc_room).split('/')[0];
+            var span = parse_schedule.split('');
             var parse_room = new String(parse_sc_room).split('/')[1];
         }else{
             var parse_schedule = "";
+            var span = "";
             var parse_room = "";
         }
     
@@ -121,6 +123,7 @@ function analysis(profile,select){
             credits : read[i][18].trim(),
             day : parse_day,
             schedule : parse_schedule,
+            class_span : span.length,
             room : parse_room,
             teacher : read[i][22].trim(),
             num_people : read[i][24].trim(),

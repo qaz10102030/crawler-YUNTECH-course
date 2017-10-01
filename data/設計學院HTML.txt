@@ -63,7 +63,7 @@
                                 </td><td>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl03_cour_emp"><a href="mailto:yaoming@yuntech.edu.tw">羅耀明</a></span>
                                 </td><td align="center">
-                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl03_SelNo">43</span>
+                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl03_SelNo">42</span>
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl03_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
@@ -103,7 +103,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl04_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl04_Programs" class="programPopupTrigger" rel="106|1|5303,345551a5-5ed2-4198-86fb-3d0e0aa03b78,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl04_Programs" class="programPopupTrigger" rel="106|1|5303,b05a61af-9a37-4941-b519-e4ed384cd94c,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl04_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl04_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl04_Remark" style="font-size:10pt;"></span>
@@ -171,7 +171,7 @@
                                 </td><td>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl06_cour_emp">各教師</span>
                                 </td><td align="center">
-                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl06_SelNo">96</span>
+                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl06_SelNo">95</span>
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl06_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
@@ -211,7 +211,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl07_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl07_Programs" class="programPopupTrigger" rel="106|1|5304,8e0f71fb-31cf-4fd6-a51d-6066dc5a7e41,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl07_Programs" class="programPopupTrigger" rel="106|1|5304,fc1158b0-e5e0-429e-90d0-223273d06829,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl07_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl07_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">單數</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl07_Remark" style="font-size:10pt;"></span>
@@ -243,11 +243,11 @@
                                 </td><td>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl08_cour_emp"><a href="mailto:vinceyu@yuntech.edu.tw">游元隆</a></span>
                                 </td><td align="center">
-                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl08_SelNo">50</span>
+                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl08_SelNo">49</span>
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl08_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl08_Programs" class="programPopupTrigger" rel="106|1|5305,d8cab3d9-3bf1-4c46-9520-26c9dfe2b7f9,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl08_Programs" class="programPopupTrigger" rel="106|1|5305,16a5cb13-e20d-40a2-a658-5890a1cab44d,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl08_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl08_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">偶數</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl08_Remark" style="font-size:10pt;"></span>
@@ -283,7 +283,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl09_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl09_Programs" class="programPopupTrigger" rel="106|1|5306,7f9ec37b-e3f3-4713-b7e0-e3d0a99d1760,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl09_Programs" class="programPopupTrigger" rel="106|1|5306,c2483981-8db2-4ef8-8919-f9bf21effdea,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl09_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl09_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">單數</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl09_Remark" style="font-size:10pt;"></span>
@@ -319,7 +319,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl10_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl10_Programs" class="programPopupTrigger" rel="106|1|5307,702c0474-d54b-4650-ae96-3f98fea61dbe,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl10_Programs" class="programPopupTrigger" rel="106|1|5307,5f0f722e-f064-4ea7-bdb0-7d14527d857b,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl10_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl10_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">偶數</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl10_Remark" style="font-size:10pt;"></span>
@@ -387,7 +387,7 @@
                                 </td><td>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl12_cour_emp">劉秉瑜</span>
                                 </td><td align="center">
-                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl12_SelNo">46</span>
+                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl12_SelNo">45</span>
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl12_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
@@ -567,7 +567,7 @@
                                 </td><td>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl17_cour_emp"><a href="mailto:sching@yuntech.edu.tw">林詩菁</a>,<a href="mailto:penglh@yuntech.edu.tw">彭立勛</a>,<a href="mailto:tlhsieh@yuntech.edu.tw">謝子良</a></span>
                                 </td><td align="center">
-                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl17_SelNo">34</span>
+                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl17_SelNo">33</span>
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl17_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
@@ -603,7 +603,7 @@
                                 </td><td>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl18_cour_emp"><a href="mailto:penglh@yuntech.edu.tw">彭立勛</a>,<a href="mailto:tlhsieh@yuntech.edu.tw">謝子良</a>,<a href="mailto:sching@yuntech.edu.tw">林詩菁</a></span>
                                 </td><td align="center">
-                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl18_SelNo">30</span>
+                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl18_SelNo">29</span>
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl18_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
@@ -643,7 +643,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl19_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl19_Programs" class="programPopupTrigger" rel="106|1|5314,55a44455-3b44-428e-a0ab-0d8a39e84d7d,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl19_Programs" class="programPopupTrigger" rel="106|1|5314,9605b612-38a8-4dd2-926b-ddceaef4130c,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl19_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl19_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">5314,5331</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl19_Remark" style="font-size:10pt;"></span>
@@ -819,7 +819,7 @@
                                 </td><td>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl24_cour_emp">各教師</span>
                                 </td><td align="center">
-                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl24_SelNo">55</span>
+                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl24_SelNo">52</span>
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl24_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
@@ -855,11 +855,11 @@
                                 </td><td>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl25_cour_emp"><a href="mailto:laurarun@yuntech.edu.tw">謝修璟</a></span>
                                 </td><td align="center">
-                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl25_SelNo">35</span>
+                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl25_SelNo">33</span>
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl25_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl25_Programs" class="programPopupTrigger" rel="106|1|5401,e3c76dcf-16b5-4925-afa9-d4b8c094ffa8,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl25_Programs" class="programPopupTrigger" rel="106|1|5401,e4311fef-3aaa-4dcf-95bb-43dde95df565,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl25_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl25_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl25_Remark" style="font-size:10pt;"></span>
@@ -891,7 +891,7 @@
                                 </td><td>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl26_cour_emp"><a href="mailto:changty@yuntech.edu.tw">張岑瑤</a>,<a href="mailto:wangcl@yuntech.edu.tw">王清良</a></span>
                                 </td><td align="center">
-                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl26_SelNo">31</span>
+                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl26_SelNo">29</span>
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl26_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
@@ -1219,7 +1219,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl35_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;">限<br>67人</span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl35_Programs" class="programPopupTrigger" rel="106|1|5335,073724a9-7154-4dba-a4de-7f070b5df663,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl35_Programs" class="programPopupTrigger" rel="106|1|5335,c8424d51-18b7-40a4-9733-2cd6e79358a4,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl35_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl35_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl35_Remark" style="font-size:10pt;"></span>
@@ -1251,7 +1251,7 @@
                                 </td><td>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl36_cour_emp"><a href="mailto:vinceyu@yuntech.edu.tw">游元隆</a></span>
                                 </td><td align="center">
-                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl36_SelNo">68</span>
+                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl36_SelNo">67</span>
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl36_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;">限<br>68人</span>
                                 </td><td>
@@ -1287,11 +1287,11 @@
                                 </td><td>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl37_cour_emp"><a href="mailto:laurarun@yuntech.edu.tw">謝修璟</a></span>
                                 </td><td align="center">
-                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl37_SelNo">50</span>
+                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl37_SelNo">49</span>
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl37_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl37_Programs" class="programPopupTrigger" rel="106|1|5339,622b56b7-2829-4a64-8c5c-f7507d35dbb1,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl37_Programs" class="programPopupTrigger" rel="106|1|5339,36a726d6-8edd-444b-b685-0a8152156980,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl37_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl37_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl37_Remark" style="font-size:10pt;"></span>
@@ -1327,7 +1327,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl38_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;">限<br>60人</span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl38_Programs" class="programPopupTrigger" rel="106|1|5340,b1092059-566e-4700-9bda-cc4ab4cc04f4,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl38_Programs" class="programPopupTrigger" rel="106|1|5340,db7e16b3-d16e-4bb3-82ff-22134e3099c8,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl38_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl38_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl38_Remark" style="font-size:10pt;"></span>
@@ -1359,11 +1359,11 @@
                                 </td><td>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl39_cour_emp"><a href="mailto:shang@yuntech.edu.tw">商毓芳</a></span>
                                 </td><td align="center">
-                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl39_SelNo">14</span>
+                                    <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl39_SelNo">13</span>
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl39_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;">限<br>60人</span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl39_Programs" class="programPopupTrigger" rel="106|1|5341,ac73b6b9-0955-403f-a66a-09bf107a7c45,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl39_Programs" class="programPopupTrigger" rel="106|1|5341,347ba8f8-3dcc-49a7-b570-a4142dad1e9d,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl39_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl39_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl39_Remark" style="font-size:10pt;"></span>
@@ -1543,7 +1543,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl44_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl44_Programs" class="programPopupTrigger" rel="106|1|5346,529468d3-13f4-4ea9-957f-052147771ddc,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl44_Programs" class="programPopupTrigger" rel="106|1|5346,a280c552-2e96-4676-b079-0f35205d0e1e,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl44_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl44_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl44_Remark" style="font-size:10pt;"></span>
@@ -1579,7 +1579,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl45_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;">限<br>30人</span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl45_Programs" class="programPopupTrigger" rel="106|1|2159,14a512e2-fa5e-4163-94c6-e6e08f8248e8,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl45_Programs" class="programPopupTrigger" rel="106|1|2159,7daa2fff-0a31-4075-8094-a2f2ce34520e,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl45_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl45_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">課堂教學+實習 (校內、校外)</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl45_Remark" style="font-size:10pt;"></span>
@@ -1615,7 +1615,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl46_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;">限<br>50人</span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl46_Programs" class="programPopupTrigger" rel="106|1|5350,e20f86f3-e381-4022-bf52-0ca4dddf3b84,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl46_Programs" class="programPopupTrigger" rel="106|1|5350,51959a86-3185-40f6-83f1-404657f4586f,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl46_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl46_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl46_Remark" style="font-size:10pt;"></span>
@@ -1723,7 +1723,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl49_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl49_Programs" class="programPopupTrigger" rel="106|1|5353,c8a911c9-196b-4169-a3b0-0b8c1ada2c4f,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl49_Programs" class="programPopupTrigger" rel="106|1|5353,9245796d-6e8c-4fc8-bf5c-2bb1e283b1e9,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl49_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl49_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl49_Remark" style="font-size:10pt;"></span>
@@ -1795,7 +1795,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl51_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl51_Programs" class="programPopupTrigger" rel="106|1|1475,6e12fe50-f9f1-4f4c-bf25-dd80b046d5a3,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl51_Programs" class="programPopupTrigger" rel="106|1|1475,ad70c94d-bc93-4945-809e-b4c9883dab6c,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl51_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl51_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl51_Remark" style="font-size:10pt;"></span>
@@ -2011,7 +2011,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl57_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl57_Programs" class="programPopupTrigger" rel="106|1|5331,41a31da0-3d50-46d1-916c-d9f5bf0130a2,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl57_Programs" class="programPopupTrigger" rel="106|1|5331,20788752-6445-495d-b103-6d6bf1e2ebb6,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl57_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl57_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">5314,5331</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl57_Remark" style="font-size:10pt;"></span>
