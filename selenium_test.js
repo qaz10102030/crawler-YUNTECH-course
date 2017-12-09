@@ -8,7 +8,7 @@ var mongodbServer = new mongodb.Server('localhost', 27017, {
   auto_reconnect: true,
   poolSize: 10
 });
-var db = new mongodb.Db('yuntech', mongodbServer);
+var db = new mongodb.Db('node', mongodbServer);
 var depart_num = 0;
 process.setMaxListeners(0);
 //可調整變數區

@@ -31,7 +31,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl02_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl02_Programs" class="programPopupTrigger" rel="106|1|0427,8ac2ef6d-9040-4353-90b6-3ced1b6ecb9c,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl02_Programs" class="programPopupTrigger" rel="106|1|0427,93022f18-436b-46c2-9937-0cba95ff8c8d,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl02_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl02_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">英語授課<br>能力分班</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl02_Remark" style="font-size:10pt;"><br>不開放網路選課，請洽語言中心辦理。</span>
@@ -103,7 +103,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl04_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl04_Programs" class="programPopupTrigger" rel="106|1|2121,1fd26375-74a9-4e9a-b61e-348527d6d9af,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl04_Programs" class="programPopupTrigger" rel="106|1|2121,88e836e7-4a76-4f80-9186-c402fc6d97f9,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl04_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl04_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl04_Remark" style="font-size:10pt;"></span>
@@ -139,7 +139,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl05_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl05_Programs" class="programPopupTrigger" rel="106|1|2122,72fdd7a9-e186-4270-afcd-6a34f230984d,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl05_Programs" class="programPopupTrigger" rel="106|1|2122,5699340a-fcc1-486e-967c-e90eb9e78dfb,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl05_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl05_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl05_Remark" style="font-size:10pt;"></span>
@@ -175,7 +175,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl06_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl06_Programs" class="programPopupTrigger" rel="106|1|2123,9b93a8fa-04ee-4a01-b4a5-18b1dd52859a,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl06_Programs" class="programPopupTrigger" rel="106|1|2123,5dbb1cb8-a1a3-4545-b1a6-5f874158b12a,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl06_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl06_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl06_Remark" style="font-size:10pt;"></span>
@@ -211,7 +211,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl07_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl07_Programs" class="programPopupTrigger" rel="106|1|2124,c1a7fee5-d81a-4e64-a7da-ecb270f6d615,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl07_Programs" class="programPopupTrigger" rel="106|1|2124,68d9860c-da63-4b61-b446-d9aea6bf00ac,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl07_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl07_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">課堂教學+實習 (校內、校外)</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl07_Remark" style="font-size:10pt;"></span>
@@ -247,7 +247,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl08_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl08_Programs" class="programPopupTrigger" rel="106|1|2125,c5ecf6bf-5907-4c54-b971-0ca5a0a923e3,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl08_Programs" class="programPopupTrigger" rel="106|1|2125,8faf8036-498e-4e18-9d81-4499c5cbc359,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl08_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl08_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">課堂教學+實習 (校內、校外)</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl08_Remark" style="font-size:10pt;"></span>
@@ -679,7 +679,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl20_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl20_Programs" class="programPopupTrigger" rel="106|1|2129,4398211c-76f1-48a7-ab64-90e9a8d30f4c,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl20_Programs" class="programPopupTrigger" rel="106|1|2129,6ed41396-376f-4e34-aa5c-5eae70832de0,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl20_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl20_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">2129,2144</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl20_Remark" style="font-size:10pt;"></span>
@@ -715,7 +715,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl21_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl21_Programs" class="programPopupTrigger" rel="106|1|2130,de2004df-bc41-4d8b-bb3e-167b362e3fde,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl21_Programs" class="programPopupTrigger" rel="106|1|2130,f7e1061c-75d1-44ab-81b0-e9c17d86f1c4,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl21_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl21_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">2130,2146</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl21_Remark" style="font-size:10pt;"></span>
@@ -895,7 +895,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl26_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl26_Programs" class="programPopupTrigger" rel="106|1|2139,e8e7089e-14a9-4f32-b324-571e6338e00e,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl26_Programs" class="programPopupTrigger" rel="106|1|2139,3648716f-b0b0-4089-8999-a2f724598113,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl26_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl26_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl26_Remark" style="font-size:10pt;">限資工系學生</span>
@@ -931,7 +931,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl27_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl27_Programs" class="programPopupTrigger" rel="106|1|2140,4a6f2e96-bb66-425c-9a9a-88748deeb590,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl27_Programs" class="programPopupTrigger" rel="106|1|2140,14cc9c7e-323f-4813-bbab-684d483ac935,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl27_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl27_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">實習(校內、校外)</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl27_Remark" style="font-size:10pt;"><br>限資工系學生</span>
@@ -967,7 +967,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl28_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl28_Programs" class="programPopupTrigger" rel="106|1|2149,31bd086c-85b2-4fdc-9d9f-c6d510bc0fcf,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl28_Programs" class="programPopupTrigger" rel="106|1|2149,5d6767a8-207b-47f6-b0d6-81e0f32c7fe6,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl28_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl28_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">課堂教學+實習 (校內、校外)</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl28_Remark" style="font-size:10pt;"></span>
@@ -1003,7 +1003,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl29_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl29_Programs" class="programPopupTrigger" rel="106|1|2152,f53a5956-5f90-471e-b89c-8fb8d93f53a0,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl29_Programs" class="programPopupTrigger" rel="106|1|2152,0bf43490-3ff6-403b-a8a3-20cdaf2c8582,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl29_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl29_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">課堂教學+實習 (校內、校外)</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl29_Remark" style="font-size:10pt;"></span>
@@ -1111,7 +1111,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl32_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;">限<br>33人</span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl32_Programs" class="programPopupTrigger" rel="106|1|2157,2cf11c0d-2015-4e81-9908-9c5d4099c1f8,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl32_Programs" class="programPopupTrigger" rel="106|1|2157,26bf9c47-5de5-4e87-a362-c8af399c7bbb,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl32_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl32_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl32_Remark" style="font-size:10pt;"></span>
@@ -1183,7 +1183,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl34_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;">限<br>30人</span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl34_Programs" class="programPopupTrigger" rel="106|1|2159,1e5302a8-ad38-4592-b671-250fc08cdc7b,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl34_Programs" class="programPopupTrigger" rel="106|1|2159,e14d3111-d79d-49af-a413-31eb9611030a,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl34_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl34_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">課堂教學+實習 (校內、校外)</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl34_Remark" style="font-size:10pt;"></span>
@@ -1219,7 +1219,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl35_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;">限<br>31人</span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl35_Programs" class="programPopupTrigger" rel="106|1|2160,6a952ebb-ba59-4112-8ada-344d7ab41b52,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl35_Programs" class="programPopupTrigger" rel="106|1|2160,63766aa2-7318-4f24-97e0-a451d3c12d50,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl35_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl35_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl35_Remark" style="font-size:10pt;"></span>
@@ -1291,7 +1291,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl37_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl37_Programs" class="programPopupTrigger" rel="106|1|2164,3b502728-f271-497f-af36-3181db4d549d,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl37_Programs" class="programPopupTrigger" rel="106|1|2164,b8a1b5b0-0320-43ef-9d9c-8935824403bb,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl37_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl37_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">課堂教學+實習 (校內、校外)</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl37_Remark" style="font-size:10pt;"></span>
@@ -1363,7 +1363,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl39_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl39_Programs" class="programPopupTrigger" rel="106|1|2166,01a7e05c-f7c5-472a-82ee-4ad4fca1b687,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl39_Programs" class="programPopupTrigger" rel="106|1|2166,ceab8130-2ca4-4aae-ba70-134fb0ec4834,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl39_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl39_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">實習(校內、校外)<br>能力分班</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl39_Remark" style="font-size:10pt;"></span>
@@ -1399,7 +1399,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl40_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl40_Programs" class="programPopupTrigger" rel="106|1|2167,7e7a4f3c-e111-46ff-8dc0-ee6a09f34ab4,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl40_Programs" class="programPopupTrigger" rel="106|1|2167,ed1121f5-08ee-4142-9a97-85726779679d,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl40_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl40_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">實習(校內、校外)<br>能力分班</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl40_Remark" style="font-size:10pt;"></span>
@@ -1435,7 +1435,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl41_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;">限<br>60人</span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl41_Programs" class="programPopupTrigger" rel="106|1|2168,8eeaa3e9-04fc-498b-9507-662613d894bf,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl41_Programs" class="programPopupTrigger" rel="106|1|2168,6b115d4c-4f33-4af2-ad40-51cc75d2f2bd,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl41_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl41_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl41_Remark" style="font-size:10pt;"></span>
@@ -1471,7 +1471,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl42_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;">限<br>58人</span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl42_Programs" class="programPopupTrigger" rel="106|1|2169,5b9bd11b-aae0-47a0-9baa-357410f30f89,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl42_Programs" class="programPopupTrigger" rel="106|1|2169,b7ab39b2-d957-42c8-aad0-af7231e0f91c,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl42_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl42_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">英語授課</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl42_Remark" style="font-size:10pt;"></span>
@@ -1521,7 +1521,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl44_Dept_Cour_No">CSIE3040</span>
                                 </td><td align="left">
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl44_cour_cname" title="檢視教學大綱、計畫、核心能力關聯" href="javascript:openwindow('/WebNewCAS/Course/Plan/Query.aspx?&amp;106&amp;1&amp;2144')">資料結構</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl44_cour_cname" title="檢視���學大綱、計畫、核心能力關聯" href="javascript:openwindow('/WebNewCAS/Course/Plan/Query.aspx?&amp;106&amp;1&amp;2144')">資料結構</a>
                                     <br>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl44_cour_ename" style="font-family:Arial;font-size:10pt;font-weight:bold;">Data Structures</span>
                                 </td><td align="left">
@@ -1615,7 +1615,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl46_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl46_Programs" class="programPopupTrigger" rel="106|1|2146,c77f8d79-b83c-4967-8371-58d72401d613,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl46_Programs" class="programPopupTrigger" rel="106|1|2146,5cf4d1ed-4eb6-4c84-8b7d-5d81eb089810,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl46_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl46_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;">2130,2146</span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl46_Remark" style="font-size:10pt;"><br>與四技班合班授課</span>
@@ -1759,7 +1759,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl50_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;"></span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl50_Programs" class="programPopupTrigger" rel="106|1|2110,28a68868-99c6-4dff-8bb3-af2af18532f7,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl50_Programs" class="programPopupTrigger" rel="106|1|2110,55a3f9ef-357b-4eb9-92d4-601ec7871a1b,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl50_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl50_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl50_Remark" style="font-size:10pt;">碩博合開</span>
@@ -1795,7 +1795,7 @@
                                 </td><td align="center">
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl51_CourLimit" style="color:Red;font-size:10pt;font-weight:bold;">限<br>40人</span>
                                 </td><td>
-                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl51_Programs" class="programPopupTrigger" rel="106|1|2111,78caec33-bbe7-43fb-a456-1a2f0770b5ad,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
+                                    <a id="ctl00_ContentPlaceHolder1_Course_GridView_ctl51_Programs" class="programPopupTrigger" rel="106|1|2111,2454082c-8ee3-490b-9288-675b0b56189d,225" href="../Programs/QueryCour.aspx" style="font-size:Small;">跨領域學程</a>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl51_comm" style="color:Blue;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl51_CourRemark" style="color:Green;font-size:10pt;font-weight:bold;"></span>
                                     <span id="ctl00_ContentPlaceHolder1_Course_GridView_ctl51_Remark" style="font-size:10pt;">碩博合開</span>
